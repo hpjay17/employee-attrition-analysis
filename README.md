@@ -45,7 +45,7 @@ Key variables analyzed:
 ## Business Recommendations
 - Monitor and reduce sustained overtime workloads
 - Use targeted compensation adjustments for high-risk employees
-- Clarify promotion pathways to reduce perceived career stagnation
+- Clarify promotion pathways to reduce career stagnation
 - Combine engagement initiatives with workload and pay management
 
 ## Files
